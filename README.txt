@@ -7,9 +7,9 @@ If you find this tool useful and like to support its continuous
           development, then consider a donation.
 
 tpruvot@github:
-  BTC  : 1AJdfCpLWPNoAMDfHF1wD5y8VgKSSTHxPo
-  DRK  : XeVrkPrWB7pDbdFLfKhF1Z3xpqhsx6wkH3
-  ZRC  : ZEcubH2xp2mpuwxMjy7wZThr5AzLGu3mqT
+
+
+
 
 DJM34:
   BTC donation address: 1NENYmxwZGHsKFmyjTc5WferTn5VTFb7Ze
